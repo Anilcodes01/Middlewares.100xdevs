@@ -1,0 +1,17 @@
+{
+  "name": "middlewares",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-middleware.js",
+  "scripts": {
+    "start": "nodemon 1-middleware.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.0",
+    "nodemon": "^3.1.0",
+    "zod": "^3.22.4"
+  }
+}
